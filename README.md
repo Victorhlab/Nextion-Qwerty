@@ -1,26 +1,11 @@
 # Nextion Qwery
+Nextion keyboard qwerty keypad for Nextion. 
+A styled Nextion keypad. 
 
-3.2", 4.3" Nextion Qweerty keyboard example project for reference.
-
-> Sample screenshot:
-
-![](screenshots/qwerty.png)
-
-
-
-4.3" Nextion Qweerty keyboar example project for reference.
->   Sample screenshot:
-
-![](screenshots/Username.png)
-
-![](screenshots/qwerty_43.png)
-
-
-
+Project example is implemented for a 4.3" screen. But this solution is scalable for any screen size.
 
 4.3" Nextion Qweerty keyboar example project for reference. Restyled the qwerty keyboard
 >   Sample screenshot:
-
 
 ![](screenshots/qwertyInputField_restyle.png)
 
